@@ -14,11 +14,15 @@ For instance, diving board problems and the understanding of which "blocks" or p
 Another reason why I was most satisfied with this assessment that may not be obvious on paper is that a lot of knowledge resulted from deriving knowledge from past lessons (linear motion) rather than blind memorization of formulas or even full-on familiarity with the problems itself. This is evident by how the way I answered problems wasn't the exact same method that was taught in class. One of the most essential parts to my success in this assessment was familiarity with the diagrams--as I had encountered from the first assessment of the term; knowing which bodies were responsible for which aspects of motion and which parts to consider was critical to my performance. It is also fitting that I had performed best in the latest assessment of the term: physics is about the build-up of concepts.
 
 
-!http://slideplayer.com/716694/2/images/8/Ex.+A+5.00-m+long+diving+board+of+negligible+mass+is+supported+by+two+pillars..jpg
+![Diving Board](http://slideplayer.com/716694/2/images/8/Ex.+A+5.00-m+long+diving+board+of+negligible+mass+is+supported+by+two+pillars..jpg)
 
 ## Worst
 
 **Test Overview**
+
+Our first physics assessment covered **Work, Power, and Energy**. This was all about motion (rather, causing it), several laws that govern the workings of physics that we're familiar with, and the framework for multiple fields that involve the aforementioned. Distinctions between mechanical and kinetic potential energy, work (and power), were covered in this assessment.
+
+
 
 
 ## Overall Reflection
