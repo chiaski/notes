@@ -4,9 +4,21 @@ Presented by Chiara Amisola.
 
 ## Best 
 
+**Test Overview**
+The third assessment went over the relationship between angular and linear variables in motion, and what is essentially the angular counterpart to linear motion. This involves concepts on velocity, displacement, acceleration, and torque (tendency to cause rotation). 
+
+I was most confident with the assessment and believed that I performed well on it because of my grasp on rotational motion, its relations with previous lessons and concepts, its applications in the real-world (such as how I was able to explain clearly explain the manifestations of torque in objects), and general extensive understanding on it as well as prior practice I had done on the bulk of problems that would be covered. Overall, my familiarity with the concepts from the topic itself such as supporting concepts assisted a lot.
+
+For instance, diving board problems and the understanding of which "blocks" or pillars and the gravitational impact that must be considered in computing for torque. Without knowledge on this (which can be linked back to previously discussed topics on work)--I wouldn't have been able to properly solve an item in the test that was of essentially the same format. Although one can memorize the general procedure for solving rotational motion problems, when encountering problems with different settings, more comprehensive knowledge and understanding that can only be built with strong physics foundations is required.
+
+Another reason why I was most satisfied with this assessment that may not be obvious on paper is that a lot of knowledge resulted from deriving knowledge from past lessons (linear motion) rather than blind memorization of formulas or even full-on familiarity with the problems itself. This is evident by how the way I answered problems wasn't the exact same method that was taught in class. One of the most essential parts to my success in this assessment was familiarity with the diagrams--as I had encountered from the first assessment of the term; knowing which bodies were responsible for which aspects of motion and which parts to consider was critical to my performance. It is also fitting that I had performed best in the latest assessment of the term: physics is about the build-up of concepts.
+
+
+!http://slideplayer.com/716694/2/images/8/Ex.+A+5.00-m+long+diving+board+of+negligible+mass+is+supported+by+two+pillars..jpg
 
 ## Worst
 
+**Test Overview**
 
 
 ## Overall Reflection
