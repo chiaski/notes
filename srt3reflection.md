@@ -2,6 +2,9 @@
 ### From 3rd Term, SY 2017-2018
 Presented by Chiara Amisola. 
 
+[SA 3 - Rotational Kinematics and Dynamics](https://imgur.com/a/kL4Ol)
+[Postlab SA 1 - Conservation of Momentum](https://i.imgur.com/Gf7aggS.jpg) [Postlab SA 2 - Balance Beam](https://i.imgur.com/gD0X4c0.jpg)
+
 ## Best 
 
 **Test Overview**
@@ -19,10 +22,9 @@ Another reason why I was most satisfied with this assessment that may not be obv
 ## Worst
 
 **Test Overview**
-
 Our first physics assessment covered **Work, Power, and Energy**. This was all about motion (rather, causing it), several laws that govern the workings of physics that we're familiar with, and the framework for multiple fields that involve the aforementioned. Distinctions between mechanical and kinetic potential energy, work (and power), were covered in this assessment.
 
-
+This was my poorest performance because of lack of mastery over the lesson, lack of practice, as well as not being able to grasp the scenarios in certain work problems. Illustrating free-body diagrams is a vital part in better plotting out problems and understanding how different bodies take play on the axes of different issues; of which an inclined plane problem in the test was present that I mistakenly considered the frictional force in. Because I hadn't accurately drawn the vector representations and components of the bodies involved and had a misunderstanding of how the concepts behind the problem worked, I made a simple mistake. My success on the other items was largely due to familiarity with identical items, not necessarily the concepts behind such--which was something I was too dependent on in the test that showed.
 
 
 ## Overall Reflection
