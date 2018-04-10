@@ -3,7 +3,10 @@
 Presented by Chiara Amisola. 
 
 [SA 3 - Rotational Kinematics and Dynamics](https://imgur.com/a/kL4Ol)
-[Postlab SA 1 - Conservation of Momentum](https://i.imgur.com/Gf7aggS.jpg) [Postlab SA 2 - Balance Beam](https://i.imgur.com/gD0X4c0.jpg)
+
+[Postlab SA 1 - Conservation of Momentum](https://i.imgur.com/Gf7aggS.jpg) 
+
+[Postlab SA 2 - Balance Beam](https://i.imgur.com/gD0X4c0.jpg)
 
 ## Best 
 
